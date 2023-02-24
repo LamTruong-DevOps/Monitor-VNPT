@@ -3,7 +3,7 @@ global:
   smtp_from: "sharefshare2022@gmail.com"
   smtp_auth_username: "sharefshare2022@gmail.com"
   smtp_auth_identity: "sharefshare2022@gmail.com"
-  smtp_auth_password: "daznffscwuwalnbp"
+  smtp_auth_password: "..."
   resolve_timeout: 3m
 
 templates:
