@@ -25,11 +25,11 @@ scrape_configs:
     honor_labels: true
 
     static_configs:
-      - targets: ["192.168.5.13:9100"]
+      - targets: ["...:9100"]
         labels:
           server: "Exporter1"
-          ip: "192.168.5.13"
-      - targets: ["192.168.5.219:9100"]
+          ip: "..."
+      - targets: ["...:9100"]
         labels:
           server: "Exporter2"
-          ip: "192.168.5.219"
+          ip: "..."
